@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛頂經瑜伽文殊師利菩薩供養儀軌
+#+DATE: 2015-08-30 20:31:40.775931
+#+PROPERTY: JUAN 0
